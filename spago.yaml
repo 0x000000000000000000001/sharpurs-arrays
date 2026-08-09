@@ -1,17 +1,1 @@
-package:
-  name: arrays
-  dependencies:
-    - bifunctors
-    - control
-    - foldable-traversable
-    - functions
-    - maybe
-    - nonempty
-    - partial
-    - prelude
-    - safe-coerce
-    - st
-    - tailrec
-    - tuples
-    - unfoldable
-    - unsafe-coerce
+spago.cs.yaml
